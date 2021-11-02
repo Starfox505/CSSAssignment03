@@ -38,7 +38,7 @@ p {
 .album-art {
   margin: 2rem;
   padding: 1rem;
-  border: 0.15rem solid rgb(211, 0, 0);
+  border: 2px solid rgb(211, 0, 0);
   max-width: 100px;
   float: left;
 }
@@ -51,7 +51,7 @@ p {
 .image-stage-effects {
   margin: 2rem;
   padding: 1rem;
-  border: 0.15rem solid rgb(211, 0, 0);
+  border: solid rgb(211, 0, 0);
   max-width: 200px;
   float: left;
 }
@@ -68,7 +68,7 @@ p {
 #about-photo {
   margin: 1rem;
   padding: 1rem;
-  border: 0.15rem double rgb(211, 0, 0);
+  border: 4px double rgb(211, 0, 0);
   float: left;
 }
 
@@ -83,7 +83,7 @@ p {
 #section-equipment {
   margin: 1rem;
   padding: 0.75rem;
-  border: 0.15rem double rgb(211, 0, 0);
+  border: 4px double rgb(211, 0, 0);
 }
 
 #text-intro {
